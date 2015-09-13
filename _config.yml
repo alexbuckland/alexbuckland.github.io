@@ -21,14 +21,14 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: alexbuckland
-  instagram: alex.buckland
-  linkedin:
-  pinterest:
-  rss: RSS # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: alexbuckland
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  instagram: alex.buckland
+  pinterest: alexbuckland
   youtube: user/melomaxuk
+  github: alexbuckland
+  linkedin:
+  rss: RSS # just type anything here for a working RSS icon, make sure you set the "url" above!
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
