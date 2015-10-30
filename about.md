@@ -28,6 +28,20 @@ Here is what I have planned next:
 1st Team/8 Teams - Darwen Pedal Car Grand Prix - (5.5mi:86m) 27 Aug 2012  
 38th/193 - 1st SS - 17th in Group. Maratonul Fagetului (30km:900m) 29 Apr 2012  
 
+Do tables work here?
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+
 ### Other Events
 
 - Coast to Coast on Single Speed bike (no gears)
