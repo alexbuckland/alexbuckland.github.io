@@ -23,14 +23,17 @@ Here is what I have planned next:
 - Spine Challenger (108 miles) January
 
 ### Race Palmares 
-#### Position/Entries in Time - Notables - Event Name (Distance:Vertical) Date
 
-- 30/62 7hr 53mins - Gritstone Grind - (34mi:1751m) 8 Sep 2013  
-- 7/33 12hr 17mins - Dusk Til Dawn Sunlight - (50mi:2841m) 18 May 2013  
-- 114/188 1hr 24mins - Caldervale 10 - (10mi:278m) 29 Mar 2013  
-- 160/215 1hr 57mins - Garstang Half Marathon - (12.7mi:241m) 16 Sep 2012  
-- 1st Team/8 Teams - Darwen Pedal Car Grand Prix - (5.5mi:86m) 27 Aug 2012  
-- 38th/193 - 1st SS - 17th in Group. Maratonul Fagetului (30km:900m) 29 Apr 2012  
+|------------------+-------------+-----------------------------+----------+----------+---------------+----------------------|
+| Position/Entries |    Time     |         Event Name          | Distance | Vertical | Event Date      |       Notables       |
+|------------------|-------------|-----------------------------|----------|----------|---------------|----------------------|
+| 30/62            | 7:53  | Gritstone Grind             | 34mi     | 1751m    | 2013-09-08    |                      |
+| 7/33             | 12:17 | Dusk Til Dawn               | 50mi     | 2841m    | 2013-05-18    | 1st Ultra            |
+| 114/188          | 1:24  | Caldervale 10               | 10mi     | 278m     | 2013-03-29    |                      |
+| 160/215          | 1:57  | Garstang Half Marathon      | 12.7mi   | 241m     | 2012-09-16    | 1st Race             |
+| 1st Team/8 Teams |             | Darwen Pedal Car GP         | 5.5mi    | 86m      | 2012-08-27    |                      |
+| 38th/193         |             | Maratonul Fagetului         | 30km     | 900m     | 2012-04-29    | 1st SS 17th in Group |
+|------------------+-------------+-----------------------------+----------+----------+---------------+----------------------|
 
 ### Other Events
 
