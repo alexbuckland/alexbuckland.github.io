@@ -12,7 +12,7 @@ Agilist by nature, running and cycling long distances and raising a family in La
 
 ### Who I am
 
-I'm Alex, 30 years old and living on the lumpy frothy edge of the west Pennine Moors in Darwen, Lancashire. I've been a few other things in the past, like a labourer, bartender, sound engineer and web developer. Right now I'm a father, husband, scrum master, listener of many musics, apple fanboy, maker of flapjacks, and a foodie. One day I would quite like to add mountaineer to that list, but I'm not there yet.
+I'm Alex, 30 years old and living on the lumpy frothy edge of the west Pennine Moors in Darwen, Lancashire. I've been a few other things in the past, like a dry stone wall labourer, bartender, sound engineer and web developer. Right now I'm a father, husband, Product Owner, listener of many musics, apple fanboy, maker of flapjacks, and a foodie. One day I would quite like to add Antarctic Explorer to that list, but I'm not there yet.
 
 ### What I do
 
